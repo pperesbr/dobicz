@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dobicz (Paulo Henrique Peres)
+- 👋 Hi, I’m @pperesbr (Paulo Henrique Peres)
 - 👀 I’m interested in NodeJS, GraphQL, ReactJS, Python and network monitoring technologies such as: InfluxDB, Telegraf, Kapacitor, Elasticsearch, Logstash, Kibana, Grafana, gNMI.
 - 🌱 I’m currently learning NodeJS/GraphQL/ReactJS
 - 💞️ I’m looking to collaborate on projects with focus network solutions.
